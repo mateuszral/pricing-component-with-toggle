@@ -17,15 +17,16 @@ export const colors = {
   grey400: 'hsl(0, 0%, 91%)',
   grey500: 'hsl(0, 0%, 97%)',
   primary: '#FFD226',
+  linearGradient: 'linear-gradient(135deg, hsl(236, 72%, 79%), hsl(237, 63%, 64%))',
+  veryLightGrayishBlue: 'hsl(240, 78%, 98%)',
+  lightGrayishBlue: 'hsl(234, 14%, 74%)',
+  grayishBlue: 'hsl(233, 13%, 49%)',
+  darkGrayishBlue: 'hsl(232, 13%, 33%)',
 };
 
 export const font = {
   size: {
-    bigHeader: '10rem',
-    header: '4.8rem',
-    articleHeader: '2.6rem',
-    logo: '2rem',
-    infoParagraph: '1.8rem',
+    header: '6rem',
     paragraph: '1.6rem',
     button: '1.3rem',
   },
